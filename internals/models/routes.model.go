@@ -14,7 +14,7 @@ var InstanceRoutes = Routes{
 	MAIN:          "/main",
 	LOGS:          "/logs",
 	CLOCK:         "/clock",
-	RESTART_CYCLE: "/restart-log",
+	RESTART_CYCLE: "/clock/restart-log",
 	LOGS_TABLE:    "/logs=table",
 	ERROR:         "error",
 	CLEAN_ERROR:   "/clean-error",
